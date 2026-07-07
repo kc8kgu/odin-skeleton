@@ -14,8 +14,8 @@
 *.dSYM/
 
 # Editor / IDE
-.idea/
-.vscode/
+#.idea/
+#.vscode/
 
 # OS
 .DS_Store
